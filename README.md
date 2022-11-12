@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniel99Petrov
+- 👋 Hi, I’m Daniel Petrov
 - 👀 I’m interested in ... WebDesign and Coding
 - 🌱 I’m currently learning ...  WebDesign and Coding basics
 - 💞️ I’m looking to collaborate on ... 
